@@ -1,2 +1,2 @@
-# tanamanobatkaro
- Tanaman Obat Karo
+# Tumbuhanobatkaro
+ Tumbuhan Obat Karo
